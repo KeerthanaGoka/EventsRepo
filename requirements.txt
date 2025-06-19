@@ -1,4 +1,8 @@
--e .
+#pip ins-e .
 pandas
 numpy
 seaborn
+scikit-learn
+catboost
+xgboost
+matplotlib
